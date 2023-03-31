@@ -1,6 +1,6 @@
 ---
-title: "TODO - Your title"
-abbrev: "TODO - Abbreviation"
+title: "Multipath QUIC Path Failover Mechanism"
+abbrev: "QUIC failover"
 category: info
 
 docname: draft-kozuka-quic-failover-latest
@@ -25,8 +25,8 @@ venue:
 
 author:
  -
-    fullname: Your Name Here
-    organization: Your Organization Here
+    fullname: Masahiro Kozuka
+    organization: Okayama University
     email: "masa.koz@kozuka.jp"
 
 normative:
